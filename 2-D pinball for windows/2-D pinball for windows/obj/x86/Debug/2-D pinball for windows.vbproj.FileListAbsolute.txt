@@ -1,0 +1,39 @@
+C:\Users\asus\AppData\Local\Temporary Projects\2-D pinball for windows\bin\Debug\2-D pinball for windows.exe
+C:\Users\asus\AppData\Local\Temporary Projects\2-D pinball for windows\bin\Debug\2-D pinball for windows.pdb
+C:\Users\asus\AppData\Local\Temporary Projects\2-D pinball for windows\bin\Debug\2-D pinball for windows.xml
+C:\Users\asus\AppData\Local\Temporary Projects\2-D pinball for windows\obj\x86\Debug\_2_D_pinball_for_windows.Form1.resources
+C:\Users\asus\AppData\Local\Temporary Projects\2-D pinball for windows\obj\x86\Debug\_2_D_pinball_for_windows.Resources.resources
+C:\Users\asus\AppData\Local\Temporary Projects\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.vbproj.GenerateResource.Cache
+C:\Users\asus\AppData\Local\Temporary Projects\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.exe
+C:\Users\asus\AppData\Local\Temporary Projects\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.xml
+C:\Users\asus\AppData\Local\Temporary Projects\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.pdb
+C:\Users\asus\documents\visual studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.exe
+C:\Users\asus\documents\visual studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.xml
+C:\Users\asus\documents\visual studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.pdb
+C:\Users\asus\documents\visual studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.exe
+C:\Users\asus\documents\visual studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.pdb
+C:\Users\asus\documents\visual studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.xml
+C:\Users\asus\documents\visual studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\_2_D_pinball_for_windows.Resources.resources
+C:\Users\asus\documents\visual studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.exe.config
+C:\Users\asus\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.exe.manifest
+C:\Users\asus\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.application
+C:\Users\asus\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.exe.manifest
+C:\Users\asus\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.application
+C:\Users\asus\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\_2_D_pinball_for_windows.orginal.resources
+C:\Users\asus\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\_2_D_pinball_for_windows.main_menu.resources
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.exe.config
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.exe
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.xml
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.pdb
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.exe.manifest
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.application
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.exe
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.pdb
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\bin\Debug\2-D pinball for windows.xml
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\_2_D_pinball_for_windows.orginal.resources
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\_2_D_pinball_for_windows.main_menu.resources
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\_2_D_pinball_for_windows.Resources.resources
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.vbproj.GenerateResource.Cache
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.exe.manifest
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\2-D pinball for windows\2-D pinball for windows\obj\x86\Debug\2-D pinball for windows.application
