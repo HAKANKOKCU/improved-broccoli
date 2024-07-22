@@ -1,0 +1,37 @@
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\bin\Debug\birdlol.exe
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\bin\Debug\birdlol.pdb
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\bin\Debug\birdlol.xml
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\obj\x86\Debug\birdlol.Form1.resources
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\obj\x86\Debug\birdlol.Resources.resources
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\obj\x86\Debug\birdlol.vbproj.GenerateResource.Cache
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\obj\x86\Debug\birdlol.exe
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\obj\x86\Debug\birdlol.xml
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\obj\x86\Debug\birdlol.pdb
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\obj\x86\Debug\birdlol.birdlol.resources
+C:\Users\asus\AppData\Local\Temporary Projects\birdlol\bin\Debug\birdlol.exe.config
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\bin\Debug\birdlol.exe.config
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.exe
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.xml
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.pdb
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\bin\Debug\birdlol.exe
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\bin\Debug\birdlol.pdb
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\bin\Debug\birdlol.xml
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.birdlol.resources
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.Form1.resources
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.Resources.resources
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.vbproj.GenerateResource.Cache
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.nooooo.resources
+C:\Users\asus\documents\visual studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.msg.resources
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\bin\Debug\birdlol.exe.config
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.exe
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.xml
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.pdb
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\bin\Debug\birdlol.exe
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\bin\Debug\birdlol.pdb
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\bin\Debug\birdlol.xml
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.birdlol.resources
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.Form1.resources
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.msg.resources
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.Resources.resources
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.nooooo.resources
+C:\Users\ASUS PC\Documents\Visual Studio 2010\Projects\birdlol\birdlol\obj\x86\Debug\birdlol.vbproj.GenerateResource.Cache
