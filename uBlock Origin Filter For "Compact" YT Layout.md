@@ -1,3 +1,5 @@
+# OUTDATED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Add this line to your filters:
 
 `www.youtube.com##ytd-button-renderer > a > yt-formatted-string`
