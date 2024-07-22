@@ -1,0 +1,18 @@
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\FileBreaker\bin\Debug\FileBreaker.exe
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\FileBreaker\bin\Debug\FileBreaker.pdb
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\FileBreaker\bin\Debug\FileBreaker.xml
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\FileBreaker\obj\x86\Debug\FileBreaker.Form1.resources
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\FileBreaker\obj\x86\Debug\FileBreaker.Resources.resources
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\FileBreaker\obj\x86\Debug\FileBreaker.vbproj.GenerateResource.Cache
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\FileBreaker\obj\x86\Debug\FileBreaker.exe
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\FileBreaker\obj\x86\Debug\FileBreaker.xml
+C:\Users\ASUS PC\AppData\Local\Temporary Projects\FileBreaker\obj\x86\Debug\FileBreaker.pdb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\FileBreaker\FileBreaker\obj\x86\Debug\FileBreaker.exe
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\FileBreaker\FileBreaker\obj\x86\Debug\FileBreaker.xml
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\FileBreaker\FileBreaker\obj\x86\Debug\FileBreaker.pdb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\FileBreaker\FileBreaker\bin\Debug\FileBreaker.exe
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\FileBreaker\FileBreaker\bin\Debug\FileBreaker.pdb
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\FileBreaker\FileBreaker\bin\Debug\FileBreaker.xml
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\FileBreaker\FileBreaker\obj\x86\Debug\FileBreaker.Form1.resources
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\FileBreaker\FileBreaker\obj\x86\Debug\FileBreaker.Resources.resources
+C:\Users\ASUS PC\documents\visual studio 2010\Projects\FileBreaker\FileBreaker\obj\x86\Debug\FileBreaker.vbproj.GenerateResource.Cache
