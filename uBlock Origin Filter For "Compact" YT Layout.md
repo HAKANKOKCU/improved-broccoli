@@ -1,5 +1,6 @@
 # OUTDATED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
+I tried remaking this... but I couldn't make it "good" because of the padding
+<hr>
 Add this line to your filters:
 
 `www.youtube.com##ytd-button-renderer > a > yt-formatted-string`
